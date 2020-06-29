@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const superagent = require('superagent');
-const customisation = require('../customisation.json');
 
 exports.run = async (client, message, args, tools) => {
     if (!message.mentions.users.first()) return message.reply("You need to mention someone to kiss them :3");
