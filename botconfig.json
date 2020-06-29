@@ -1,6 +1,6 @@
 {
     "token": "TOKEN",
     "prefix": "$",
-    "mongoPass": "mongodb+srv://Username:Password@cluster0-ilncr.mongodb.net/<dbname>?retryWrites=true&w=majority" //get a url from mongo
+    "mongoPass": "mongodb+srv://Username:Password@cluster0-ilncr.mongodb.net/<dbname>?retryWrites=true&w=majority"
   }
   
