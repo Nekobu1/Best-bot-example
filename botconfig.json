@@ -1,6 +1,6 @@
 {
-    "token": "NzE2Mjk0MzcyODIzNTMxNjYw.XvYapw.xS6haYaUOOSD_qhLtphq_V06XVc",
+    "token": "TOKEN",
     "prefix": "$",
-    "mongoPass": "mongodb+srv://Epic:Bala1978@cluster0-ilncr.mongodb.net/<dbname>?retryWrites=true&w=majority" 
+    "mongoPass": "mongodb+srv://Username:Password@cluster0-ilncr.mongodb.net/<dbname>?retryWrites=true&w=majority" 
   }
   
