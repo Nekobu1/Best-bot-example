@@ -1,0 +1,36 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node .": "node run index.js"
+  },
+  "author": "Divesh",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "alexflipnote.js": "^1.1.2",
+    "anime-scraper": "^3.1.1",
+    "directory": "^0.1.0",
+    "discord-ytdl-core": "^4.0.2",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "file": "^0.2.2",
+    "fs": "0.0.1-security",
+    "mathjs": "^7.0.0",
+    "mongoose": "^5.9.16",
+    "parse-ms": "^2.1.0",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "some-random-api": "^2.0.0",
+    "superagent": "^5.2.2",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^2.1.7",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
