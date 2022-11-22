@@ -1,3 +1,2 @@
 # Best-bot-example
-Old Bot example XD
-but works so good 
+Old Bot example Which uses discordjs 12.2.0
